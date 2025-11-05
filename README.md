@@ -11,7 +11,7 @@ A passionate software engineer and creator. On my [YouTube channel](https://www.
 * 💻 .NET Ecosystem Mastery
 * 🗄️ Database Design & Management
 
-🎥 **This organisation is a curated collection of code from my videos.**
+🎞️ **This organisation is a curated collection of code from my videos.**
 
 🛠️ Join the community to:
 
