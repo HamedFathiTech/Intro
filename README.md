@@ -43,3 +43,4 @@ A passionate software engineer and creator. On my [YouTube channel](https://www.
 - 🎥[N+1 Query Problem with a custom EF Core detector!](https://www.youtube.com/watch?v=8cH0mUdaV_s) 🧑‍💻[SourceCode](https://github.com/HamedFathiTech/EFCoreNPlus1QueryProblem)
 - 🎥[HTML to PDF with Playwright.NET and C#](https://www.youtube.com/watch?v=QqUTrp0_ndw) 🧑‍💻[SourceCode](https://github.com/HamedFathiTech/HtmlToPdf)
 - 🎥[AI Agent Orchestration (Sequential, Concurrent, Handoff, Group Chat, Magentic)](https://www.youtube.com/watch?v=9yywCx-Vc2c) 🧑‍💻[SourceCode](https://github.com/HamedFathiTech/AIAgentOrchestration)
+- 🎥[Extension Members in C# 14, .NET 10](https://www.youtube.com/watch?v=3flEP_MMPmE) 🧑‍💻[SourceCode](https://github.com/HamedFathiTech/ExtensionMembers)
